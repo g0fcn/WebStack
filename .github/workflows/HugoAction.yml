@@ -30,7 +30,7 @@ jobs:
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3	  # 一个自动发布 github pages 的 action
         with:
-          external_repository: g0fcn/Webstack
+          external_repository: g0fcn/WebStack-hugo
           publish_dir: ./public	
           publish_branch: gh-pages	# 发布到哪个 branch
           force_orphan: true
