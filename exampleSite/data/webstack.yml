@@ -1,627 +1,831 @@
----
 
 - taxonomy: 常用推荐
   icon: far fa-star
-  links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
-
-
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 生物信息
-      links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-    - term: 游戏竞技
-      links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
-    - term: 图标素材
-      links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
-          logo: iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
-        - title: IcoMoonApp
-          logo: IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
-        - title: flaticon
-          logo: flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
-        - title: ion icons
-          logo: ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack.
-    - term: 图标设计
-      links:
-        - title: Iconsfeed
-          logo: iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery.
-        - title: iOS Icon Gallery
-          logo: iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store.
-        - title: World Vector Logo
-          logo: worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
-        - title: 千库网
-          logo: qianku.png
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载。
-        - title: 我图网
-          logo: wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
-        - title: 90 设计
-          logo: 90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
-        - title: 昵图网
-          logo: nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-      
-
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
   list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
-          url: https://coolors.co/
-          logo: coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
-    - term: 谷歌插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
-
-
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        
+     - term: TG群组
+       links:
+        - title: 极搜
+          logo: https://t.me/i/userpic/160/jisou.jpg
+          url: /go/?username=jisou?start=a_6113195484
+          description: 找到您感兴趣的群组、频道和机器人
+        - title: 极搜
+          logo: https://t.me/i/userpic/160/jisou.jpg
+          url: /go/?username=jisou?start=a_6113195484
+          description: 找到您感兴趣的群组、频道和机器人
+        - title: 超级索引
+          logo: https://t.me/i/userpic/160/So1234Bot.jpg
+          url: /go/?username=SousuoBot?start=Agency=hcqdvg
+          description: 找到您感兴趣的群组、频道和机器人
+        - title: 频道索引&推荐
+          logo: https://t.me/i/userpic/160/recommend3.jpg
+          url: /go/?username=zhongwen_zn
+          description: 个人精心筛选的中文TG索引频道
+        - title: 公诸同好|二次元美图分享
+          logo: https://t.me/i/userpic/160/gongzhutonghao.jpg
+          url: /go/?username=AVSoup
+          description: 高质量动漫&二次元&插画作品分享
+        - title: 朱颜别镜|妹子图|美女图
+          logo: https://t.me/i/userpic/160/meizitu3.jpg
+          url: /go/?username=Google_bota
+          description: 全网美女，妹子图收藏
+        - title: TG喵
+          logo: https://t.me/i/userpic/160/meowTGbot.jpg
+          url: /go/?username=jisou?start=a_6113195484
+          description: TG喵-做最懂你的TG搜索
+        - title: 链接分享
+          logo: https://t.me/i/userpic/160/ZXYSXNONE.jpg
+          url: /go/?username=sousuoda
+          description: 分享奇奇怪怪的链接
+        - title: Telegram中文交流群
+          logo: https://t.me/i/userpic/160/tgcnz.jpg
+          url: /go/?username=chatgpt_as
+          description: Telegram中文交流
+        - title: Telegram中文圈
+          logo: https://t.me/i/userpic/160/tgzhcn.jpg
+          url: /go/?username=tgzhcn
+          description: Telegram中文/汉化/知识/教程
+        - title: Telegram中文社群-收藏夹
+          logo: https://t.me/i/userpic/160/tgcnxz.jpg
+          url: /go/?username=tgcnxz
+          description: Telegram中文社群-收藏夹
+        - title: 中文TG科技新闻
+          logo: https://t.me/i/userpic/160/Hao12News.jpg
+          url: /go/?username=Hao12News
+          description: Telegram最新资讯，使用教程和讯息
+        - title: Testflight新闻投稿
+          logo: https://t.me/i/userpic/160/TestFlightCN.jpg
+          url: /go/?username=TestFlightCN
+          description: 频道日常推送科技新闻和互动消息
+        - title: 风向旗参考快讯
+          logo: https://t.me/i/userpic/160/xhqcankao.jpg
+          url: /go/?username=xhqcankao
+          description: 风闻奏事，遍查访知。提供互联网科技新闻快讯
+        - title: 狐说|Apple News科技美学
+          logo: https://t.me/i/userpic/160/jianjiaoPD.jpg
+          url: /go/?username=jianjiaoPD
+          description: 时政热点 科技资讯 八卦娱乐 奇闻趣事
+        - title: APPDO数字生活指南
+          logo: https://t.me/i/userpic/160/AppDoDo.jpg
+          url: /go/?username=AppDoDo
+          description: 互联网/数码/App/羊毛/相机/数字指南
+        - title: Newlearnerの自留地
+          logo: https://t.me/i/userpic/160/NewlearnerChannel.jpg
+          url: /go/?username=NewlearnerChannel
+          description: 不定期推送 IT 相关资讯，欢迎关注！
+        - title: 开源社区
+          logo: https://t.me/i/userpic/160/opencfdchannel.jpg
+          url: /go/?username=opencfdchannel
+          description: Android/Linux/Windows/MacOS/iOS
+        - title: 不良林
+          logo: https://t.me/i/userpic/160/buliang00.jpg
+          url: /go/?username=buliang00
+          description: 科学上网，资源分享
+        - title: 瞎玩菌#SFW
+          logo: https://t.me/i/userpic/160/blindgamer.jpg
+          url: /go/?username=blindgamer
+          description: 聚焦 PC/主机游戏，分享游戏见闻，晒趣图，赏视频
+        - title: 科技圈的日常
+          logo: https://t.me/i/userpic/160/misakatech.jpg
+          url: /go/?username=misakatech
+          description: 科技圈内的大事小事
+        - title: 8度频道
+          logo: https://t.me/i/userpic/160/badupindao.jpg
+          url: /go/?username=badupindao
+          description: 8度频道
+        - title: GDP_信息安全
+          logo: https://t.me/i/userpic/160/GDP_sc.jpg
+          url: /go/?username=GDP_sc
+          description: 本频道用于吐槽 信息安全推送 外加搬运
+        - title: 荔枝木
+          logo: https://t.me/i/userpic/160/lychee_wood.jpg
+          url: /go/?username=lychee_wood
+          description: 这个世界很复杂，我尝试着去理解它
+        - title: Solidot
+          logo: https://t.me/i/userpic/160/solidot.jpg
+          url: /go/?username=solidot
+          description: solidot.org非官方RSS推送频道
+        - title: LoopDNS-广告屏蔽与反追踪
+          logo: https://t.me/i/userpic/160/DNSPODT.jpg
+          url: /go/?username=DNSPODT
+          description: 对于DNS请求统计以及广告拦截统计
+        - title: 每日消费电子观察
+          logo: https://t.me/i/userpic/160/CE_Observe.jpg
+          url: /go/?username=CE_Observe
+          description: 不公正 不客观 不理性
+        - title: 少数派sspai
+          logo: https://t.me/i/userpic/160/sspai.jpg
+          url: /go/?username=sspai
+          description: 少数派(sspai.com)官方频道
+        - title: 蓝点网订阅频道
+          logo: https://t.me/i/userpic/160/landiansub.jpg
+          url: /go/?username=landiansub
+          description: 蓝点网订阅频道
+        - title: Yummy
+          logo: https://t.me/i/userpic/160/GodlyNews1.jpg
+          url: /go/?username=GodlyNews1
+          description: 不定期推送科技数码类新资讯，欢迎关注！
+        - title: 科技&趣闻&杂记
+          logo: https://t.me/i/userpic/160/kejiqu.jpg
+          url: /go/?username=kejiqu
+          description: 前沿科技资讯，娱乐、影视新闻，以及世间趣闻
+        - title: 【华尔街见闻】-财经时讯
+          logo: https://t.me/i/userpic/160/FinanceNewsDaily.jpg
+          url: /go/?username=FinanceNewsDaily
+          description: 实时推送【华尔街见闻】国内、国际一手财经资讯
+        - title: 竹新社
+          logo: https://t.me/i/userpic/160/tnews365.jpg
+          url: /go/?username=tnews365
+          description: 7×24不定时编译国内外媒体的即时新闻报道
+        - title: 乌鸦观察
+          logo: https://t.me/i/userpic/160/bigcrowdev.jpg
+          url: /go/?username=bigcrowdev
+          description: 不定期推送新闻和杂谈
+        - title: 突发新闻
+          logo: https://t.me/i/userpic/160/breakingnews_t.jpg
+          url: /go/?username=breakingnews_t
+          description: 突发新闻推送服务（简体中文）
+        - title: 联合早报 即时报道
+          logo: https://t.me/i/userpic/160/zaobao_news.jpg
+          url: /go/?username=zaobao_news
+          description: 联合早报 即时报道
+        - title: 校长读报
+          logo: https://t.me/i/userpic/160/XiaoZhangDuBao.jpg
+          url: /go/?username=XiaoZhangDuBao
+          description: 多读书 多看报
+        - title: 财经慢报
+          logo: https://t.me/i/userpic/160/Financial_Express.jpg
+          url: /go/?username=Financial_Express
+          description: 泛财经类资讯新闻频道
+        - title: 每天60秒简报
+          logo: https://t.me/i/userpic/160/NEWSPJAPK.jpg
+          url: /go/?username=NEWSPJAPK
+          description: 新闻简报 热点时事 数码科技 社会民生
+        - title: 后续APP——关注、追踪热点新闻
+          logo: https://t.me/i/userpic/160/HouXuApp.jpg
+          url: /go/?username=HouXuApp
+          description: 「后续」是持续关注、追踪热点事件的新闻工具
+        - title: 豆瓣精选
+          logo: https://t.me/i/userpic/160/douban_read.jpg
+          url: /go/?username=douban_read
+          description: 豆瓣精选。豆瓣书影音，以及相关讨论
+        - title: 微信搬运工
+          logo: https://t.me/i/userpic/160/WeChatEssence.jpg
+          url: /go/?username=WeChatEssence
+          description: 丰富电报上的中文内容
+        - title: 阿里云盘资源
+          logo: https://t.me/i/userpic/160/zaihuayun.jpg
+          url: /go/?username=zaihuayun
+          description: 阿里云盘资源分享频道
+        - title: 阿里云盘盘
+          logo: https://t.me/i/userpic/160/yunpanpan.jpg
+          url: /go/?username=yunpanpan
+          description: 阿里云盘资源分享频道
+        - title: 阿里云盘发布频道
+          logo: https://t.me/i/userpic/160/Aliyundrive_Share_Channel.jpg
+          url: /go/?username=Aliyundrive_Share_Channel
+          description: 和谐、友爱的阿里云盘分享交流频道
+        - title: BT之家btjia电影频道
+          logo: https://t.me/i/userpic/160/btzhi.jpg
+          url: /go/?username=btzhi
+          description: 陆续为广大影迷提供各类资源
+        - title: 爷青回动画分享频道
+          logo: https://t.me/i/userpic/160/yeqingjie_GJG666.jpg
+          url: /go/?username=yeqingjie_GJG666
+          description: 爷青回动画分享频道
+        - title: Zapro Notice
+          logo: https://t.me/i/userpic/160/zaproshare.jpg
+          url: /go/?username=zaproshare
+          description: Google Drive资源共享
+        - title: NEP.Anime | 动画仓库
+          logo: https://t.me/i/userpic/160/AnimeNep.jpg
+          url: /go/?username=AnimeNep
+          description: 涅普涅普的动画仓库。(简/繁/日)
+        - title: 阿里云盘4K影视
+          logo: https://t.me/i/userpic/160/Aliyun_4K_Movies.jpg
+          url: /go/?username=Aliyun_4K_Movies
+          description: 专注于高品质4K，REMUX影视资源
+        - title: TVBox
+          logo: https://t.me/i/userpic/160/TVbox888.jpg
+          url: /go/?username=TVbox888
+          description: 只做一件事，解放你的电视
+        - title: 音乐收藏夹
+          logo: https://t.me/i/userpic/160/flac_file.jpg
+          url: /go/?username=flac_file
+          description: 无损音乐收藏频道，不定时更新
+        - title: 音乐云
+          logo: https://t.me/i/userpic/160/Mp3_999.jpg
+          url: /go/?username=Mp3_999
+          description: 音乐分享在线听
+        - title: 朱颜别镜|妹子图|美女图
+          logo: https://t.me/i/userpic/160/meizitu3.jpg
+          url: /go/?username=meizitu3
+          description: 全网美女，妹子图收藏
+        - title: 少女实在是太美好了
+          logo: https://t.me/i/userpic/160/tastegirl.jpg
+          url: /go/?username=tastegirl
+          description: 收藏级妹子图分享频道
+        - title: 快乐星球|妹子图|收集器
+          logo: https://t.me/i/userpic/160/botmzt.jpg
+          url: /go/?username=botmzt
+          description: 快乐星球|妹子图|收集器
+        - title: 少女一顾倾人城
+          logo: https://t.me/i/userpic/160/love_nice_girl.jpg
+          url: /go/?username=love_nice_girl
+          description: 每日分享美好
+        - title: 白丝即正义
+          logo: https://t.me/i/userpic/160/baisi.jpg
+          url: /go/?username=baisi
+          description: 不定时推送一些绅士老爷们喜闻乐见的福利
+        - title: JK精选
+          logo: https://t.me/i/userpic/160/EnjoyJK.jpg
+          url: /go/?username=EnjoyJK
+          description: JK精选
+        - title: 自尊的小姐姐们
+          logo: https://t.me/i/userpic/160/ZZDXJJ.jpg
+          url: /go/?username=ZZDXJJ
+          description: 没钱只能看看你的甜，有钱还能尝尝你的咸
+        - title: 美女写真
+          logo: https://t.me/i/userpic/160/laosiji100.jpg
+          url: /go/?username=laosiji100
+          description: 美女写真
+        - title: 颜值 美女
+          logo: https://t.me/i/userpic/160/yanzhizaici.jpg
+          url: /go/?username=yanzhizaici
+          description: 分享些美女 不定时更新
+        - title: 宝藏女孩·爱酱
+          logo: https://t.me/i/userpic/160/BaoZang.jpg
+          url: /go/?username=BaoZang
+          description: 阅天下之美人，品世间之甜美
+        - title: 仙女坊
+          logo: https://t.me/i/userpic/160/meinv1916.jpg
+          url: /go/?username=meinv1916
+          description: 仙女坊
+        - title: 萌妹子聚集地
+          logo: https://t.me/i/userpic/160/moemeizi.jpg
+          url: /go/?username=moemeizi
+          description: 萌妹子聚集地
+        - title: 诗酒趁年华
+          logo: https://t.me/i/userpic/160/dbld007.jpg
+          url: /go/?username=dbld007
+          description: 诗酒趁年华
+        - title: 看小姐姐
+          logo: https://t.me/i/userpic/160/kanxiaojiejie.jpg
+          url: /go/?username=kanxiaojiejie
+          description: 每日更新一张图，相信日积月累的力量。
+        - title: 妹纸图
+          logo: https://t.me/i/userpic/160/Mzitu.jpg
+          url: /go/?username=Mzitu
+          description: 妹纸图
+        - title: 今天又发现了哪个漂亮小姐姐
+          logo: https://t.me/i/userpic/160/xiaojiejiexixi.jpg
+          url: /go/?username=xiaojiejiexixi
+          description: 好看的皮囊，并非千篇一律
+        - title: 小瑜的老婆们
+          logo: https://t.me/i/userpic/160/goumingdexiaojiejie.jpg
+          url: /go/?username=goumingdexiaojiejie
+          description: 狗命可以不要，老婆必须得叫！
+        - title: Fine Girls | 收集器
+          logo: https://t.me/i/userpic/160/iamfinecollect.jpg
+          url: /go/?username=iamfinecollect
+          description: 妹子图收集器，所有资源出自互联网收集整理
+        - title: 公诸同好|二次元美图分享
+          logo: https://t.me/i/userpic/160/gongzhutonghao.jpg
+          url: /go/?username=gongzhutonghao
+          description: 高质量动漫&二次元&插画作品分享
+        - title: SomeACG|每日少女壁纸
+          logo: https://t.me/i/userpic/160/SomeACG.jpg
+          url: /go/?username=SomeACG
+          description: 全TG质量最高的ACG壁纸频道！
+        - title: Miku Art
+          logo: https://t.me/i/userpic/160/MikuArt.jpg
+          url: /go/?username=MikuArt
+          description: 主要发Twitter&Pixiv上的图(ACG相关为主)。
+        - title: 高分壁纸推荐|Anime gallery
+          logo: https://t.me/i/userpic/160/acgzhenghe.jpg
+          url: /go/?username=acgzhenghe
+          description: 高分动漫壁纸，品质是推荐的唯一标准
+        - title: 萌图
+          logo: https://t.me/i/userpic/160/ovov1234.jpg
+          url: /go/?username=ovov1234
+          description: Pixiv美图！萌图！壁纸！二次元！ACG！
+        - title: Pixivwallpaper|高质量插画壁纸
+          logo: https://t.me/i/userpic/160/pixivshare.jpg
+          url: /go/?username=pixivshare
+          description: 一个致力于分享各种pixiv作品的频道~
+        - title: ANIME壁纸
+          logo: https://t.me/i/userpic/160/acgwallpaper.jpg
+          url: /go/?username=acgwallpaper
+          description: 壁纸每天更新一次
+        - title: 绝对萌域
+          logo: https://t.me/i/userpic/160/moeisland.jpg
+          url: /go/?username=moeisland
+          description: 尽量都是最新的萌图，每日都有新图放送！
+        - title: 貓與你-二次元猫貓
+          logo: https://t.me/i/userpic/160/catofyou.jpg
+          url: /go/?username=catofyou
+          description: 專注於貓貓的二次元頻道。
+        - title: 萌图志
+          logo: https://t.me/i/userpic/160/moepic.jpg
+          url: /go/?username=moepic
+          description: 不定时推送一些二次元插画
+        - title: NSFW守护最好的百合
+          logo: https://t.me/i/userpic/160/yuri_on1y.jpg
+          url: /go/?username=yuri_on1y
+          description: NSFW守护最好的百合
+        - title: 萌图交流～色图也收，不要太过
+          logo: https://t.me/i/userpic/160/jialeleya2233.jpg
+          url: /go/?username=jialeleya2233
+          description: 萌图交流～色图也收，不要太过
+        - title: PIXIV站每日Top50搬运
+          logo: https://t.me/i/userpic/160/pixiv_top50.jpg
+          url: /go/?username=pixiv_top50
+          description: 搬运PIXIV每天综合排行榜前50图片资源，不定时更新
+        - title: 不知道起什么名字 Channel
+          logo: https://t.me/i/userpic/160/kiniro_mosaic.jpg
+          url: /go/?username=kiniro_mosaic
+          description: 腹泻式推送萌图为主（可能含NSFW）
+        - title: 晴的私藏图|精选壁纸美图
+          logo: https://t.me/i/userpic/160/qing_01.jpg
+          url: /go/?username=qing_01
+          description: 晴的私藏图|精选壁纸美图
+        - title: 萌图_v2
+          logo: https://t.me/i/userpic/160/ovo_123.jpg
+          url: /go/?username=ovo_123
+          description: 萌图_v2
+        - title: 似是故人來
+          logo: https://t.me/i/userpic/160/junruguqingruchu.jpg
+          url: /go/?username=junruguqingruchu
+          description: 半生说没完，在年月深渊，望明月远远，想象你幽怨。
+        - title: 高清壁纸
+          logo: https://t.me/i/userpic/160/jingxu6.jpg
+          url: /go/?username=jingxu6
+          description: 高清壁纸美女模特美图。
+        - title: 笔记本：好图收藏与整理：壁纸
+          logo: https://t.me/i/userpic/160/linyunbook2.jpg
+          url: /go/?username=linyunbook2
+          description: 欢迎大家关注小林的壁纸频道！
+        - title: 壁纸分享·爱酱
+          logo: https://t.me/i/userpic/160/BiZhiSo.jpg
+          url: /go/?username=BiZhiSo
+          description: 每个人都可以投稿的壁纸频道
+        - title: 最美壁纸»每天一张精选壁纸
+          logo: https://t.me/i/userpic/160/zuimeibizhi.jpg
+          url: /go/?username=zuimeibizhi
+          description: 每天一张人工精选壁纸
+        - title: 瘦瘦的绘画世界
+          logo: https://t.me/i/userpic/160/drawing1024.jpg
+          url: /go/?username=drawing1024
+          description: 记录自己的绘画作品
+        - title: APP喵-阿喵科技资源共享
+          logo: https://t.me/i/userpic/160/appmew.jpg
+          url: /go/?username=appmew
+          description: 分享软件，各种优质资源，有趣好玩网站
+        - title: 浥轻尘の资源分享
+          logo: https://t.me/i/userpic/160/yqc_123.jpg
+          url: /go/?username=yqc_123
+          description: 专注于资源分享，每天更新，精彩不断
+        - title: 黑科技软件资源分享
+          logo: https://t.me/i/userpic/160/kkaifenxiang.jpg
+          url: /go/?username=kkaifenxiang
+          description: 分享免费实用高效率网络资源、黑科技软件、实用黑技巧
+        - title: 极客分享
+          logo: https://t.me/i/userpic/160/geekshare.jpg
+          url: /go/?username=geekshare
+          description: 分享各种高质量网站、工具、APP、开源项目
+        - title: 链接收藏
+          logo: https://t.me/i/userpic/160/LDList.jpg
+          url: /go/?username=LDList
+          description: 链接收藏 网址导航
+        - title: 免费资源
+          logo: https://t.me/i/userpic/160/freeresource.jpg
+          url: /go/?username=freeresource
+          description: 本频道主要内容为个人兴趣信息
+        - title: 油油分享频道
+          logo: https://t.me/i/userpic/160/youyousharechannel.jpg
+          url: /go/?username=youyousharechannel
+          description: 分享开源、优秀的软件，有趣、实用的网站资源
+        - title: 每日分享频道
+          logo: https://t.me/i/userpic/160/woniubuchuiniu.jpg
+          url: /go/?username=woniubuchuiniu
+          description: 分享影视、软件、书籍、资源。
+        - title: 全网漫游指南
+          logo: https://t.me/i/userpic/160/TheWebGuide.jpg
+          url: /go/?username=TheWebGuide
+          description: 继承探索精神，让互联网浏览重新变得有趣
+        - title: iOS限免与优质应用推荐
+          logo: https://t.me/i/userpic/160/iosblackteckapp.jpg
+          url: /go/?username=iosblackteckapp
+          description: 分享iOS限免信息，免费使用正版应用
+        - title: 404KIDS SEE GHOSTS
+          logo: https://t.me/i/userpic/160/isaiahsystem.jpg
+          url: /go/?username=isaiahsystem
+          description: 系统分享工具、方法和资源，交流泛文化与艺术
+        - title: 李老斯分享社
+          logo: https://t.me/i/userpic/160/hgofxs.jpg
+          url: /go/?username=hgofxs
+          description: 每天更新优质资源的白嫖综合频道，毫无保留的分享～
+        - title: 老毛子Padavan固件发布
+          logo: https://t.me/i/userpic/160/pdcn1.jpg
+          url: /go/?username=pdcn1
+          description: 老毛子Padavan固件发布
+        - title: 秋风のとおり道
+          logo: https://t.me/i/userpic/160/AWAvenue.jpg
+          url: /go/?username=AWAvenue
+          description: 分享Android/Windows的软件和相关的文章与教程
+        - title: 链接分享
+          logo: https://t.me/i/userpic/160/ZXYSXNONE.jpg
+          url: /go/?username=ZXYSXNONE
+          description: 分享奇奇怪怪的链接
+        - title: 享悦频道
+          logo: https://t.me/i/userpic/160/xiangyues.jpg
+          url: /go/?username=xiangyues
+          description: 科技资讯，软件分享聚集地～
+        - title: 严选之白嫖
+          logo: https://t.me/i/userpic/160/yxzbp.jpg
+          url: /go/?username=yxzbp
+          description: 只发精品，做一个精品的白嫖频道！
+        - title: 优质网站汇总频道
+          logo: https://t.me/i/userpic/160/ziyuan917.jpg
+          url: /go/?username=ziyuan917
+          description: 收集推广优质网站与油猴脚本和浏览器插件
+        - title: 胖虎的收藏夹
+          logo: https://t.me/i/userpic/160/gitbig.jpg
+          url: /go/?username=gitbig
+          description: 佛系更新，收藏使用资源，长期维护
+        - title: 一览
+          logo: https://t.me/i/userpic/160/onesees.jpg
+          url: /go/?username=onesees
+          description: 你好，再见！
+        - title: ChatGPT中文社区
+          logo: https://t.me/i/userpic/160/LptTech.jpg
+          url: /go/?username=LptTech
+          description: AI一年，人间十年
+        - title: Widget 软件工具精选
+          logo: https://t.me/i/userpic/160/WidgetChannel.jpg
+          url: /go/?username=WidgetChannel
+          description: 不定期推送有用有趣的软件、网站、科技资讯
+        - title: AI绘图
+          logo: https://t.me/i/userpic/160/AI_Pintura.jpg
+          url: /go/?username=AI_Pintura
+          description: AI绘画资源分享
+        - title: 深度分享
+          logo: https://t.me/i/userpic/160/shendu666.jpg
+          url: /go/?username=shendu666
+          description: 每一款资源都会测试后再上传，并且有详细介绍
+        - title: 某不知名杂货铺
+          logo: https://t.me/i/userpic/160/youthkinga.jpg
+          url: /go/?username=youthkinga
+          description: 所有应用仅用于学习用途，禁止商用
+        - title: 破解软件资源分享
+          logo: https://t.me/i/userpic/160/pjrjzy.jpg
+          url: /go/?username=pjrjzy
+          description: 天天分享优质破解资源
+        - title: 安卓免费破解软件分享
+          logo: https://t.me/i/userpic/160/pojieshare.jpg
+          url: /go/?username=pojieshare
+          description: 安卓免费破解频道
+        - title: 苓妹妹ios资源分享
+          logo: https://t.me/i/userpic/160/iosfulishare.jpg
+          url: /go/?username=iosfulishare
+          description: ios资源免费分享频道
+        - title: 电脑破解免费分享
+          logo: https://t.me/i/userpic/160/winmods.jpg
+          url: /go/?username=winmods
+          description: 电脑破解免费分享
+        - title: 擅长搜索的高木同学
+          logo: https://t.me/i/userpic/160/gaomutongxue.jpg
+          url: /go/?username=gaomutongxue
+          description: 擅长搜索的高木同学
+        - title: 8度破解频道
+          logo: https://t.me/i/userpic/160/pjrjzy.jpg
+          url: /go/?username=pjrjzy
+          description: 8度破解频道
+        - title: 精品软件分享（破解版）
+          logo: https://t.me/i/userpic/160/pj_cn.jpg
+          url: /go/?username=pj_cn
+          description: 初心系列网站TG推广频道。
+        - title: 破解软件分享频道
+          logo: https://t.me/i/userpic/160/OOAPK.jpg
+          url: /go/?username=OOAPK
+          description: 正规频道，内容包括各种资源工具等
+        - title: 优质软件中文VPN
+          logo: https://t.me/i/userpic/160/ZWAPK.jpg
+          url: /go/?username=ZWAPK
+          description: 破解/优质软件/VPN/中文
+        - title: 白嫖联盟资源分享频道
+          logo: https://t.me/i/userpic/160/iOSQuQ.jpg
+          url: /go/?username=iOSQuQ
+          description: 苹果安卓软件黑科技、砸壳IPA软件！
+        - title: 黄油聚集地|NSFW
+          logo: https://t.me/i/userpic/160/acg_nsfw.jpg
+          url: /go/?username=acg_nsfw
+          description: 黄油聚集地|NSFW|Galgame
+        - title: 夏风小分队
+          logo: https://t.me/i/userpic/160/XiafengButter.jpg
+          url: /go/?username=XiafengButter
+          description: 黄油分享频道
+        - title: Google Play限免信息
+          logo: https://t.me/i/userpic/160/playsales.jpg
+          url: /go/?username=playsales
+          description: 不定时推介Play Store上的限免游戏，应用喵
+        - title: iOS优质应用
+          logo: https://t.me/i/userpic/160/iospremiumapps.jpg
+          url: /go/?username=iospremiumapps
+          description: 分享iOS、macOS限免信息，免费使用正版应用
+        - title: 漫天星分享社-破解软件
+          logo: https://t.me/i/userpic/160/MTXFXS.jpg
+          url: /go/?username=MTXFXS
+          description: 满天星分享社是你喜欢的福利破解软件大全
+        - title: Hello World^资源分享
+          logo: https://t.me/i/userpic/160/helloworld_1024.jpg
+          url: /go/?username=helloworld_1024
+          description: 苹果/安卓破解应用，海量福利资源
+        - title: 漫步者分享社
+          logo: https://t.me/i/userpic/160/MBZFXS.jpg
+          url: /go/?username=MBZFXS
+          description: 分享精品软件、绅士游戏、破解VPN等内容
+        - title: 煎蛋无聊图
+          logo: https://t.me/i/userpic/160/jandan_pic.jpg
+          url: /go/?username=jandan_pic
+          description: 自动抓取煎蛋首页推荐无聊图及其评论
+        - title: 心惊报
+          logo: https://t.me/i/userpic/160/xinjingdaily.jpg
+          url: /go/?username=xinjingdaily
+          description: 包含少量NSFW内容
+        - title: Foolish TraceWind
+          logo: https://t.me/i/userpic/160/FoolishTraceWind.jpg
+          url: /go/?username=FoolishTraceWind
+          description: 致力于更新优质有趣的沙雕图
+        - title: 每日沙雕墙
+          logo: https://t.me/i/userpic/160/woshadiao.jpg
+          url: /go/?username=woshadiao
+          description: 恕我直言，在座的各位都是沙雕
+        - title: 美图与沙雕
+          logo: https://t.me/i/userpic/160/shadiaotu.jpg
+          url: /go/?username=shadiaotu
+          description: 本频道虽然沙雕，但不只发沙雕
+        - title: 洛希极限
+          logo: https://t.me/i/userpic/160/RocheLimit.jpg
+          url: /go/?username=RocheLimit
+          description: 洛希极限
+        - title: 什么都能放
+          logo: https://t.me/i/userpic/160/SMDNF.jpg
+          url: /go/?username=SMDNF
+          description: 什么都能放
+        - title: 奇趣百科
+          logo: https://t.me/i/userpic/160/qiqubaike.jpg
+          url: /go/?username=qiqubaike
+          description: 每日精选推送//网络趣味收藏夹
+        - title: 即刻精选
+          logo: https://t.me/i/userpic/160/jike_collection.jpg
+          url: /go/?username=jike_collection
+          description: 精选即刻App热门话题更新
+        - title: 一个军盲
+          logo: https://t.me/i/userpic/160/junmang.jpg
+          url: /go/?username=junmang
+          description: 好看和频道主感兴趣的东西
+        - title: 搞笑研究所️
+          logo: https://t.me/i/userpic/160/gaoxiaoshu.jpg
+          url: /go/?username=gaoxiaoshu
+          description: 每日笑点放送/趣味研究
+        - title: 硬核小卒
+          logo: https://t.me/i/userpic/160/yinghexiaozu.jpg
+          url: /go/?username=yinghexiaozu
+          description: 小卒可以无名，但不能不硬核
+        - title: 小岛电波
+          logo: https://t.me/i/userpic/160/biubiubiuchat.jpg
+          url: /go/?username=biubiubiuchat
+          description: 多看些好书好电影，知道好与坏的标准
+        - title: 不求甚解
+          logo: https://t.me/i/userpic/160/fakeye.jpg
+          url: /go/?username=fakeye
+          description: 在这里分享我日常的所见所思
+        - title: Piyano's Blog
+          logo: https://t.me/i/userpic/160/Piyano_blog.jpg
+          url: /go/?username=Piyano_blog
+          description: 热点观察，写写随想，读书笔记，技术工具
+        - title: hayami's blog｜日常人间观察
+          logo: https://t.me/i/userpic/160/hayami_kiraa.jpg
+          url: /go/?username=hayami_kiraa
+          description: 一个满足日常好奇心的私人博客
+        - title: Yachen's Channel
+          logo: https://t.me/i/userpic/160/yachme.jpg
+          url: /go/?username=yachme
+          description: Yachen's Channel
+        - title: 诗歌舍
+          logo: https://t.me/i/userpic/160/poetry3456.jpg
+          url: /go/?username=poetry3456
+          description: 陋室无名 支持原创
+        - title: 笔记本：Lin's 文字世界
+          logo: https://t.me/i/userpic/160/LinsBookA.jpg
+          url: /go/?username=LinsBookA
+          description: 用于探索存储句子和其他短资料的方式
+        - title: 青鸟的频道
+          logo: https://t.me/i/userpic/160/bluebird_channel.jpg
+          url: /go/?username=bluebird_channel
+          description: 青鸟的日常和吐槽和骚话
+        - title: 写作交流
+          logo: https://t.me/i/userpic/160/writing_discuss.jpg
+          url: /go/?username=writing_discuss
+          description: 阅读 写作 交流
+        - title: 浮生东京
+          logo: https://t.me/i/userpic/160/LifeJapan.jpg
+          url: /go/?username=LifeJapan
+          description: 时不时唠叨点东京的事儿
+        - title: 庭说 TingTalk
+          logo: https://t.me/i/userpic/160/tingtalk.jpg
+          url: /go/?username=tingtalk
+          description: 保持蓬勃的好奇心
+        - title: 卖桃者说
+          logo: https://t.me/i/userpic/160/mactalk.jpg
+          url: /go/?username=mactalk
+          description: 卖桃者说
+        - title: 不存在的世界
+          logo: https://t.me/i/userpic/160/illusory_world.jpg
+          url: /go/?username=illusory_world
+          description: 不存在的世界
+        - title: BennyThink's Blog
+          logo: https://t.me/i/userpic/160/mikuri520.jpg
+          url: /go/?username=mikuri520
+          description: 晒猫猫
+        - title: 小声读书
+          logo: https://t.me/i/userpic/160/weekly_books.jpg
+          url: /go/?username=weekly_books
+          description: 探索数字阅读可能性和未来的开放项目
+        - title: 来杯奶昔
+          logo: https://t.me/i/userpic/160/NyarimeW.jpg
+          url: /go/?username=NyarimeW
+          description: 披星戴月走过的路，终将会繁花遍地
+        - title: 有故事的女同学
+          logo: https://t.me/i/userpic/160/WenAnGuan_botjihuo.jpg
+          url: /go/?username=WenAnGuan_botjihuo
+          description: 网易云热评 欢迎加入云村
+        - title: 每日无数猫
+          logo: https://t.me/i/userpic/160/miaowu.jpg
+          url: /go/?username=miaowu
+          description: 让我们打造一个全是猫的世界！
+        - title: I'm a cat, mlem
+          logo: https://t.me/i/userpic/160/imacat.jpg
+          url: /go/?username=imacat
+          description: This channel helps you wake up every morning.
+        - title: 可爱の收藏
+          logo: https://t.me/i/userpic/160/kawaii_collection.jpg
+          url: /go/?username=kawaii_collection
+          description: 分享一些趣图、萌宠和可爱的东西
+        - title: 每日無數汪
+          logo: https://t.me/i/userpic/160/wushuwang.jpg
+          url: /go/?username=wushuwang
+          description: 全是汪星人的世界
+        - title: A tiny cute warren
+          logo: https://t.me/i/userpic/160/littlebunnyup.jpg
+          url: /go/?username=littlebunnyup
+          description: 请问你要来点兔子吗
+        - title: 群友问
+          logo: https://t.me/i/userpic/160/ShortcutsCN.jpg
+          url: /go/?username=ShortcutsCN
+          description: 群友的问答，以及大家感兴趣的内容
+        - title: 读书每天读本书/好书分享
+          logo: https://t.me/i/userpic/160/sharebooks4you.jpg
+          url: /go/?username=sharebooks4you
+          description: 电子书丨好文丨佳句丨书摘丨音乐
+        - title: 书墨资源
+          logo: https://t.me/i/userpic/160/shumozy.jpg
+          url: /go/?username=shumozy
+          description: 学习资料、各类软件、生活百科、世间风味，享你所想
+        - title: 好书分享频道
+          logo: https://t.me/i/userpic/160/Bookworm_Bibliophile.jpg
+          url: /go/?username=Bookworm_Bibliophile
+          description: 读书，找到更美的世界与生活
+        - title: 好读ReadFine电子书屋
+          logo: https://t.me/i/userpic/160/Readfine.jpg
+          url: /go/?username=Readfine
+          description: 好读提供电子书一站式体验，一键下载，享受读趣
+        - title: Legado｜开源阅读｜频道
+          logo: https://t.me/i/userpic/160/Legado_Channels.jpg
+          url: /go/?username=Legado_Channels
+          description: 内发布阅读APK、书源、背景排版及部分公众号内容
+        - title: Telegram数字图书馆
+          logo: https://t.me/i/userpic/160/TG_book_data.jpg
+          url: /go/?username=TG_book_data
+          description: 电子书/免费/资源/书库/漫画/资料/文献
+        - title: 润润Go away
+          logo: https://t.me/i/userpic/160/runrungoaway.jpg
+          url: /go/?username=runrungoaway
+          description: 主要分享移民信息与外语学习资源
+        - title: 杂志｜期刊｜考研
+          logo: https://t.me/i/userpic/160/Qikan2023.jpg
+          url: /go/?username=Qikan2023
+          description: 经济学人,纽约客,财新周刊,卫报,华尔街日报,中国日报,科学
+        - title: 频道索引&推荐
+          logo: https://t.me/i/userpic/160/recommend3.jpg
+          url: /go/?username=zhongwen_zn
+          description: 个人精心筛选的中文TG索引频道
+        - title: 电报指南&精品排行榜
+          logo: https://t.me/i/userpic/160/TgTrillion.jpg
+          url: /go/?username=TgTrillion
+          description: 中文群组和频道收录
+        - title: 电报狗：TG精选收录
+          logo: https://t.me/i/userpic/160/smsgou.jpg
+          url: /go/?username=smsgou
+          description: 电报频道，讨论群组收录，推广
+        - title: 电报群组&频道
+          logo: https://t.me/i/userpic/160/tl_gc.jpg
+          url: /go/?username=tl_gc
+          description: 推荐各式各样的群组和频道！
+        - title: CN导航
+          logo: https://t.me/i/userpic/160/CN_DH.jpg
+          url: /go/?username=CN_DH
+          description: 简单好记又干净的中文TG导航频道
+        - title: FriendChCodeList
+          logo: https://t.me/i/userpic/160/FriendChCodeList.jpg
+          url: /go/?username=FriendChCodeList
+          description: 一个频道友链交换处！
+        - title: 优质群组频道推荐
+          logo: https://t.me/i/userpic/160/youzhi_info.jpg
+          url: /go/?username=youzhi_info
+          description: 推荐分享一些Telegram优质群组频道
+        - title: 电报群组广播
+          logo: https://t.me/i/userpic/160/FOCUSTELEGRAMGROUPLINK.jpg
+          url: /go/?username=FOCUSTELEGRAMGROUPLINK
+          description: 推送净成员150以上的群组
+        - title: 电报新群推送
+          logo: https://t.me/i/userpic/160/linkpush.jpg
+          url: /go/?username=linkpush
+          description: 新群推送频道，收录刚建立的群组
+        - title: 索引频道
+          logo: https://t.me/i/userpic/160/teleindex.jpg
+          url: /go/?username=teleindex
+          description: 存放接触过的感觉还不错的频道等
+        - title: 频道藏馆
+          logo: https://t.me/i/userpic/160/channelhall.jpg
+          url: /go/?username=channelhall
+          description: 收藏TG频道、群组、机器人
+        - title: I Share Group
+          logo: https://t.me/i/userpic/160/iShareGroup.jpg
+          url: /go/?username=iShareGroup
+          description: share telegram groups and channels
+        - title: SOSO搜索ZH
+          logo: https://t.me/i/userpic/160/sosoZHbot.jpg
+          url: /go/?username=soso?start=a_6113195484
+          description: 发送 “关键词” 即可搜索相关群组频道
+        - title: 极搜
+          logo: https://t.me/i/userpic/160/hao1234bot.jpg
+          url: /go/?username=jisou?start=a_6113195484
+          description: 找到您感兴趣的群组、频道和机器人
+        - title: TG喵
+          logo: https://t.me/i/userpic/160/meowTGbot.jpg
+          url: /go/?username=jisou?start=a_6128203748
+          description: TG喵-做最懂你的TG搜索
+        - title: 北极星搜索
+          logo: https://t.me/i/userpic/160/PolarisseekBot.jpg
+          url: /go/?username=PolarisseekBot
+          description: 您好，我能给您导航Telegram群组/频道
+        - title: 超级索引
+          logo: https://t.me/i/userpic/160/So1234Bot.jpg
+          url: /go/?username=SousuoBot?start=Agency=hcqdvg
+          description: 找到您感兴趣的群组、频道和机器人
+        - title: SE-索引秘书
+          logo: https://t.me/i/userpic/160/zh_secretary_bot.jpg
+          url: /go/?username=zh_secretary_bot
+          description: 中文索引导航，用户体验至上
+        - title: TG群组/频道导航
+          logo: https://t.me/i/userpic/160/daohangbot.jpg
+          url: /go/?username=jisou?start=a_6113195484
+          description: TG群组/频道导航
+        - title: 达摩索引
+          logo: https://t.me/i/userpic/160/damosuoyinAdminbot.jpg
+          url: /go/?username=damosuoyinAdminbbot?start=6113195484
+          description: 达摩索引，搜索就能赚usdt
+        - title: TG公眾索引機器人
+          logo: https://t.me/i/userpic/160/TG_index_bot.jpg
+          url: /go/?username=TG_index_bot
+          description: 幫助找到與分享各種群組、頻道、機器人、主題
+        - title: 群组大全_Bot
+          logo: https://t.me/i/userpic/160/qunzudaquan_bot.jpg
+          url: /go/?username=damosuoyinAdminbbot?start=6128203748
+          description: 群组大全_Bot
+        - title: 頻道群組索引機器人
+          logo: https://t.me/i/userpic/160/tg_chs_bot.jpg
+          url: /go/?username=damosuoyinAdminbbot?start=6113195484
+          description: 你可以在這裡找到你感興趣的頻道或者群組
+        - title: Searchee Bot
+          logo: https://t.me/i/userpic/160/SearcheeBot.jpg
+          url: /go/?username=SearcheeBot
+          description: Your guide in the world of Telegram channels.
+        - title: 酷群导航
+          logo: https://t.me/i/userpic/160/kuqun_bot.jpg
+          url: /go/?username=Google_bota
+          description: 酷群中文电报群组/频道导航机器人
+        - title: 【友盟】导航机器人·群组搜索
+          logo: https://t.me/i/userpic/160/dh2345_bot.jpg
+          url: /go/?username=AVSoup
+          description: TG找群·找组织·必备机器人
+        - title: 全能搜
+          logo: https://t.me/i/userpic/160/quannengsobot.jpg
+          url: /go/?username=sousuoda
+          description: 最专业的电报群搜索，telegram群搜索
+        - title: TeleSearch
+          logo: https://t.me/i/userpic/160/TeleSearchMain_bot.jpg
+          url: /go/?username=soso?start=a_6128203748
+          description: 在Telegram中搜索群组、频道,并使用AI智能推荐
+  
